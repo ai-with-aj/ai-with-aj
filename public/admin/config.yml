@@ -44,8 +44,8 @@ collections:
     identifier_field: slug
     summary: "{{titleAr}} · {{cohort.status}}"
     editor: { preview: false }
-    media_folder: "../../../public/courses/{{fields.slug}}"
-    public_folder: "/courses/{{fields.slug}}"
+    media_folder: "../../../public/courses/{{slug}}"
+    public_folder: "/courses/{{slug}}"
     fields:
       - name: active
         label: "Visible on the website — this is how you remove a course"
