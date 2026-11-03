@@ -12,8 +12,8 @@
   ],
   "cohort": {
     "status": "scheduled",
-    "startIso": "2026-10-25T17:30:00+03:00",
-    "endIso": "2026-10-27T20:30:00+03:00",
+    "startIso": "2026-11-08T17:30:00+03:00",
+    "endIso": "2026-11-10T20:30:00+03:00",
     "venueAr": "",
     "venueEn": ""
   },
@@ -62,7 +62,7 @@
         "isHighlighted": true,
         "price": 80,
         "soldOut": false,
-        "nameAr": "الحجز المبكر",
+        "nameAr": "خطم دورتنا الاخيره في سنة 2026",
         "nameEn": "Early Access",
         "featuresAr": [
           "حضور الورشة الكاملة (__TOTAL_HOURS_AR__ ساعات)",
