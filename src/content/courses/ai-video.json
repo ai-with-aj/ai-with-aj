@@ -12,8 +12,8 @@
   ],
   "cohort": {
     "status": "scheduled",
-    "startIso": "2026-11-08T17:30:00+03:00",
-    "endIso": "2026-11-10T20:30:00+03:00",
+    "startIso": "2027-01-10T17:30:00+03:00",
+    "endIso": "2027-01-12T20:30:00+03:00",
     "venueAr": "",
     "venueEn": ""
   },
@@ -45,7 +45,7 @@
     },
     {
       "titleAr": "اليوم الثالث · Higgsfield الشامل",
-      "bodyAr": "التدرّب على برنامج Higgsfield الشامل وSeedance 2.0 — توليد فيديو احترافي بأسلوب سينمائي من الفكرة إلى المشهد النهائي.",
+      "bodyAr": "التدرّب على برنامج Higgsfield الشامل وSeedance 2.5 — توليد فيديو احترافي بأسلوب سينمائي من الفكرة إلى المشهد النهائي.",
       "startTime": "17:00",
       "endTime": "20:00",
       "tools": [
@@ -60,9 +60,9 @@
       {
         "id": "early-bird",
         "isHighlighted": true,
-        "price": 80,
+        "price": 120,
         "soldOut": false,
-        "nameAr": "خطم دورتنا الاخيره في سنة 2026",
+        "nameAr": "دوراتنــــا في 2027",
         "nameEn": "Early Access",
         "featuresAr": [
           "حضور الورشة الكاملة (__TOTAL_HOURS_AR__ ساعات)",
@@ -102,7 +102,7 @@
     ]
   },
   "media": {
-    "posterImage": "courses/ai-video/IMG_8303.PNG",
+    "posterImage": "courses/ai-video/hf_20261110_193018_de619c53-ffc9-4d85-93fe-cd14cc8b4f07.png",
     "videoTitleAr": "شوف الشغل قبل لا تبدأ",
     "promoVideoUrl": "",
     "promoVideoFile": "/reel/course-montage.mp4"
