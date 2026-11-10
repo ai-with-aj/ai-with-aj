@@ -10,7 +10,7 @@ interface MontageProps {
 
 export default function Montage({ course }: MontageProps) {
   const c = course.copy.montage;
-  const videoSrc = course.media.promoVideoFile || "/reel/course-montage.mp4";
+  const videoSrc = course.media.promoVideoFile || "/reel/promo-video.mp4";
   const videoRef = useRef<HTMLVideoElement | null>(null);
 
   // Title: prefer the dedicated CMS field if set, else fall back to copy.
